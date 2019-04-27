@@ -1,6 +1,6 @@
 # Mobiilirakendus4
 
-## 6. Git projektis on README.md, mis kirjeldab projekti seadmistamist ja viide juhendile. Projekt on tehtud, järgides juhendit, mis asub järgmisel [lingil]:https://www.youtube.com/watch?v=qa7AYCVY-aA
+## 6. Git projektis on README.md, mis kirjeldab projekti seadmistamist ja viide juhendile. Projekt on tehtud, järgides juhendit, mis asub järgmisel [lingil]:https://www.youtube.com/watch?v=nM0h5pQYQxM
 Laadige alla APK fail ning installegi see enda telefonis, avage see app ning mängige
 
 ## 7. Git projektis on README.md, kus asub arvamus juhendist (min 2 lõiku). 
