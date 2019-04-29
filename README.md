@@ -10,3 +10,5 @@ Tutorialit järgides on hea alustus ning sealt edasi arendada on kerge.
 Vajalikke muudatusi ei olnud seekorda vaja teha
 ## 9. Git projektis on README.md, kus kirjeldatakse juhendi muudest muutustest rakenduse terviklikumaks muutmise nimel.
 Terve mäng on minu tehtud ning ka sellega seonduvad koodiread.
+
+![alt text](https://raw.githubusercontent.com/rihon/Mobiilirakendus4/master/Capture.PNG)
